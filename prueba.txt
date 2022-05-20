@@ -1,3 +1,5 @@
 este archivo es una prueba para git
 realizado en el curso de platzi
 jejeje
+
+este es un nuevo parrafo para otra prueba
